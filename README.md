@@ -1,1 +1,1 @@
-# CSC154_Yifan-Gao
+# CSC154_YifanGao
